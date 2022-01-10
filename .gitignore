@@ -2,3 +2,6 @@
 /.gradle/
 .gradle
 .idea
+
+# 보안을 위해 application-oauth.properties파일의 깃허브에 올라가는 것을 방지
+application-oauth.properties
