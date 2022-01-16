@@ -65,3 +65,8 @@ dependencies {
 dependencies {
     testImplementation('org.springframework.security:spring-security-test')
 }
+
+// MariaDB 드라이버
+dependencies {
+    implementation("org.mariadb.jdbc:mariadb-java-client")
+}
